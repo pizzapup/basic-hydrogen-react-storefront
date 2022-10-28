@@ -20,8 +20,8 @@ Shopify custom storefront built with hydrogen and react. App is configured to us
 
 > View Application on Vercel: [basic-hydrogen-react-storefront.vercel.app](https://basic-hydrogen-react-storefront.vercel.app/)
 
-![screenshot of home aka featured collections](/src/assets/github/screencapture-basic-hydrogen-react-storefront-vercel-app-2022-10-28-11_49_57)
-![screenshot of collection aka product listings](/src/assets/github/screencapture-basic-hydrogen-react-storefront-vercel-app-collections-thermals-and-layers-2022-10-28-11_50_11)
-![screenshot of product details page](/src/assets/github/screencapture-basic-hydrogen-react-storefront-vercel-app-products-snowboard-2022-10-28-11_50_23)
-![screenshot of cart open on home page](/src/assets/github/screencapture-localhost-3000-2022-10-28-11_54_20)
-![screenshot of checkout page](/src/assets/github/screencapture-checkout-hydrogen-shop-55145660472-checkouts-d69f470f6f4ad86c0fa8b102c0cbacac-2022-10-28-11_54_32)
+![screenshot of home aka featured collections](/src/assets/github/screencapture-basic-hydrogen-react-storefront-vercel-app-2022-10-28-11_49_57.png)
+![screenshot of collection aka product listings](/src/assets/github/screencapture-basic-hydrogen-react-storefront-vercel-app-collections-thermals-and-layers-2022-10-28-11_50_11.png)
+![screenshot of product details page](/src/assets/github/screencapture-basic-hydrogen-react-storefront-vercel-app-products-snowboard-2022-10-28-11_50_23.png)
+![screenshot of cart open on home page](/src/assets/github/screencapture-localhost-3000-2022-10-28-11_54_20.png)
+![screenshot of checkout page](/src/assets/github/screencapture-checkout-hydrogen-shop-55145660472-checkouts-d69f470f6f4ad86c0fa8b102c0cbacac-2022-10-28-11_54_32.png)
