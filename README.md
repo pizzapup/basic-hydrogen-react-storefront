@@ -1,37 +1,27 @@
-# JavaScript Example
+# basic-hydrogen-react-storefront
 
-Hydrogen is a React framework and SDK that you can use to build fast and dynamic Shopify custom storefronts.
+Shopify Storefront (Hydrogen & React.js)
 
-[Check out the docs](https://shopify.dev/custom-storefronts/hydrogen)
+## Application Overview [(basic-hydrogen-react-storefront)](https://basic-hydrogen-react-storefront.vercel.app/)
 
-[Run this template in JavaScript on StackBlitz](https://stackblitz.com/github/Shopify/hydrogen/tree/dist/templates/hello-world-js?file=package.json)
+Shopify custom storefront built with hydrogen and react. App is configured to use demo Shopify Storefront API access token to connect to Demo Store. Application is deployed to Vercel from GitHub. Hydrogen is a React framework and SDK that can be used to build fast and dynamic Shopify custom storefronts.
 
-[Run this template in TypeScript on StackBlitz](https://stackblitz.com/github/Shopify/hydrogen/tree/dist/templates/hello-world-js?file=package.json)
+### Features/Tools:
 
-## Getting started
+- Hydrogen [shopify.dev/custom-storefronts/hydrogen](https://shopify.dev/custom-storefronts/hydrogen)
+- Shopify Storefront API [shopify.dev/api/storefront](https://shopify.dev/api/storefront)
+- React.js [reactjs.org](https://reactjs.org/)
+- Headless UI [headlessui.com](https://headlessui.com/)
+- React Server Components (opinionated data-fetching and rendering workflow) [shopify react server components overview](https://shopify.dev/custom-storefronts/hydrogen/framework/react-server-components) | [react blog post on server components](https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html)
+- GraphQL (Shopify Storefront API GraphQL Explorer)
+- SEO Shopify Component [hydrogen docs](https://shopify.dev/custom-storefronts/hydrogen/framework/seo)
+- Data fetching with Suspense [react api docs](https://beta.reactjs.org/apis/react/Suspense)
+- Vercel
 
-**Requirements:**
+> View Application on Vercel: [basic-hydrogen-react-storefront.vercel.app](https://basic-hydrogen-react-storefront.vercel.app/)
 
-- Node.js version 16.14.0 or higher
-- Yarn
-
-```bash
-npm init @shopify/hydrogen@latest --template hello-world-ts
-```
-
-Remember to update `hydrogen.config.js` with your shop's domain and Storefront API token!
-
-## Building for production
-
-```bash
-yarn build
-```
-
-## Previewing a production build
-
-To run a local preview of your Hydrogen app in an environment similar to Oxygen, build your Hydrogen app and then run `yarn preview`:
-
-```bash
-yarn build
-yarn preview
-```
+![screenshot of home aka featured collections](/src/assets/github/screencapture-basic-hydrogen-react-storefront-vercel-app-2022-10-28-11_49_57)
+![screenshot of collection aka product listings](/src/assets/github/screencapture-basic-hydrogen-react-storefront-vercel-app-collections-thermals-and-layers-2022-10-28-11_50_11)
+![screenshot of product details page](/src/assets/github/screencapture-basic-hydrogen-react-storefront-vercel-app-products-snowboard-2022-10-28-11_50_23)
+![screenshot of cart open on home page](/src/assets/github/screencapture-localhost-3000-2022-10-28-11_54_20)
+![screenshot of checkout page](/src/assets/github/screencapture-checkout-hydrogen-shop-55145660472-checkouts-d69f470f6f4ad86c0fa8b102c0cbacac-2022-10-28-11_54_32)
